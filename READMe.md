@@ -26,5 +26,3 @@
 默认情况下，Jest 将会递归的找到整个工程里所有 .spec.js 或 .test.js 扩展名的文件
 
 testRegex 可以配置此属性
-
-
